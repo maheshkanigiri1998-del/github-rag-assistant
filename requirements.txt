@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+llama-index
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+llama-index-readers-github

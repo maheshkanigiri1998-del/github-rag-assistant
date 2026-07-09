@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+
+# Environment Variables (contains your GitHub token)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# Index storage (optional - you can keep or remove)
+storage/
